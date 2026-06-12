@@ -1,5 +1,5 @@
 # ============================================================
-#  TEMA 7: PROGRAMACIÓN ORIENTADA A OBJETOS (POO)
+#  PROGRAMACIÓN ORIENTADA A OBJETOS (POO)
 #  Desarrollado por: Alberto Velasco
 # ============================================================
 # La POO organiza el código en "objetos" que combinan

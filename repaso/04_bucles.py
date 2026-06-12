@@ -1,5 +1,5 @@
 # ============================================================
-#  TEMA 4: BUCLES
+#  BUCLES
 #  Desarrollado por: Alberto Velasco
 # ============================================================
 # Los bucles permiten repetir un bloque de código

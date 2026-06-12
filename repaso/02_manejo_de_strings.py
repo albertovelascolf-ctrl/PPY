@@ -1,5 +1,5 @@
 # ============================================================
-#  TEMA 2: MANEJO DE STRINGS (CADENAS DE TEXTO)
+#  MANEJO DE STRINGS (CADENAS DE TEXTO)
 #  Desarrollado por: Alberto Velasco
 # ============================================================
 # Un string es una secuencia de caracteres entre comillas.

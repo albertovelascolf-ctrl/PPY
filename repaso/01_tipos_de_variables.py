@@ -1,5 +1,5 @@
 # ============================================================
-#  TEMA 1: TIPOS DE VARIABLES
+#  TIPOS DE VARIABLES
 #  Desarrollado por: Alberto Velasco
 # ============================================================
 # Una variable es un espacio en memoria donde guardamos datos.

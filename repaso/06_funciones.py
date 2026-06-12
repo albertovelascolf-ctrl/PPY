@@ -1,5 +1,5 @@
 # ============================================================
-#  TEMA 6: FUNCIONES
+#  FUNCIONES
 #  Desarrollado por: Alberto Velasco
 # ============================================================
 # Una función es un bloque de código reutilizable que realiza

@@ -1,5 +1,5 @@
 # ============================================================
-#  TEMA 3: ESTRUCTURAS DE CONTROL
+#  ESTRUCTURAS DE CONTROL
 #  Desarrollado por: Alberto Velasco
 # ============================================================
 # Las estructuras de control permiten tomar decisiones

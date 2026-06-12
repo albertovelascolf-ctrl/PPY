@@ -1,5 +1,5 @@
 # ============================================================
-#  TEMA 5: LISTAS Y DICCIONARIOS
+#  LISTAS Y DICCIONARIOS
 #  Desarrollado por: Alberto Velasco
 # ============================================================
 
