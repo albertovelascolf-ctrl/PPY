@@ -1,6 +1,6 @@
 # PPY — Python para Principiantes
 
-Repositorio de materiales para repasar los conceptos fundamentales de Python desde cero. Hay desde teoría en notebooks a archivos .py con ejercicios dentro para poder repasar.
+Repositorio de materiales para repasar los conceptos fundamentales de Python desde cero. Hay desde teoría en notebooks a archivos .py con ejercicios dentro para poder repasar. Acuerdate de mirar el documento asociado en classroom para mejor entendimiento.
 
 ## Estructura del repositorio
 
