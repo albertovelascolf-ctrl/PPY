@@ -1,4 +1,4 @@
-# PPY — Python para Principiantes 🐍
+# PPY — Python para Principiantes
 
 Repositorio de materiales para repasar los conceptos fundamentales de Python desde cero. Hay desde teoría en notebooks a archivos .py con ejercicios dentro para poder repasar.
 
